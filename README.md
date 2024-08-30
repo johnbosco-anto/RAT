@@ -30,7 +30,13 @@ Inside the cloned repository folder, create a new React Native project if you ha
    npx react-native init MobileDataAccess
    cd MobileDataAccess
 
-4. **Install Required Packages:**
+4. **Set Up the React Native Project:**
+Initialize a new React Native project:
+
+   npx react-native init MobileDataAccess
+
+
+5. **Install Required Packages:**
 Install necessary packages for functionality:
 
    npm install react-native-camera react-native-permissions react-native-audio react-native-cale
@@ -38,4 +44,3 @@ Install necessary packages for functionality:
 
 ### Mobile Data Access
 
-**Disclaimer**: This code is intended for educational purposes only. Do not use this without proper authorization. The creator of this code cannot be held responsible for any problems that arise from its usage.
