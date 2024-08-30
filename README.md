@@ -18,3 +18,14 @@ This React Native application provides functionalities for accessing and managin
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/johnbosco-anto/Mobile-Data-Access
+
+2. **Navigate to the Repository:**
+
+   cd Mobile-Data-Access
+   
+3. **Create the Project Structure**
+Create the Project Files:
+Inside the cloned repository folder, create a new React Native project if you haven't already done so:
+
+   npx react-native init MobileDataAccess
+   cd MobileDataAccess
