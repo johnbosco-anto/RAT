@@ -34,3 +34,8 @@ Inside the cloned repository folder, create a new React Native project if you ha
 Install necessary packages for functionality:
 
    npm install react-native-camera react-native-permissions react-native-audio react-native-cale
+
+
+### Mobile Data Access
+
+**Disclaimer**: This code is intended for educational purposes only. Do not use this without proper authorization. The creator of this code cannot be held responsible for any problems that arise from its usage.
