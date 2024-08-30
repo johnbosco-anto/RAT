@@ -1,0 +1,19 @@
+##Android Configuration
+Add the following permissions to your AndroidManifest.xml:
+  <uses-permission android:name="android.permission.CAMERA" />
+  <uses-permission android:name="android.permission.RECORD_AUDIO" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.READ_CALENDAR" />
+
+
+##iOS Configuration
+Update your Info.plist to include:
+
+  <key>NSCameraUsageDescription</key>
+  <string>This app needs access to your camera to take photos.</string>
+  <key>NSMicrophoneUsageDescription</key>
+  <string>This app needs access to your microphone to record audio.</string>
+  <key>NSLocationWhenInUseUsageDescription</key>
+  <string>This app needs access to your location.</string>
+  <key>NSCalendarsUsageDescription</key>
+  <string>This app needs access to your calendar events.</string>
