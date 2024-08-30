@@ -1,0 +1,17 @@
+##Stage Your Changes
+This prepares your files for a commit. In the terminal, run:
+  git add .
+
+
+##Commit Your Changes
+This saves your staged changes with a message. Run:
+  git commit -m "Initial commit with camera, audio recording, location, and calendar features."
+
+##Push to GitHub
+This uploads your local repository changes to GitHub. Run:
+  git push origin main
+
+##Notes:
+Ensure you're connected to the internet.
+If prompted for your GitHub username and password, enter them to authenticate the push.
+Replace main with the branch name if you're using a different branch.
